@@ -1,0 +1,1 @@
+I'm an iOs Developer, and I love to code swift, but, right, now, I am apparently practicing how to use git and version control and GitHub. You iOS and other developers know what I'm talking about, right
